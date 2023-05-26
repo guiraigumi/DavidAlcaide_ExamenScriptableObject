@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96161962ae2b2e948b06576e4ed78f37, type: 3}
+  m_Name: ArmaduraSaiyan
+  m_EditorClassIdentifier: 
+  objectName: Armadura Saiyan
+  objectDescription: Una armadura que viene de otra realidad.
+  objectSprite: {fileID: 21300000, guid: c95b6e77ce3f4a44b893b74b18301aac, type: 3}
+  objectPrize: 35
+  objectType: 1
